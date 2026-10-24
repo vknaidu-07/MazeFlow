@@ -1,0 +1,2 @@
+# Runtime dependencies for Maze Solving Agent
+matplotlib>=3.8.0

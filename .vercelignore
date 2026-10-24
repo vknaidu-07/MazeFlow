@@ -1,0 +1,19 @@
+# Python virtual environments & build artifacts
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Local desktop GUI, CLI benchmarks, and offline academic tools
+src/
+tests/
+results/
+mazes/
+docs/
+*.py
+*.bat
+*.ps1
+requirements*.txt
+
+# IDE metadata
+.vscode/
